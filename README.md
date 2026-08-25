@@ -42,7 +42,7 @@ Python, Java, SQL, Pandas/NumPy/scikit-learn, LangChain, REST APIs, DSA/OOP
 
 
 
-\### Contact
+Contact
 
 \[LinkedIn](https://www.linkedin.com/in/kavya-boompur-gowda/) | \[LeetCode](https://leetcode.com/u/kavyagouda/) | kavyagouda0123@gmail.com
 
