@@ -24,13 +24,13 @@ Looking for Software / ML Engineer roles.
 
 
 
-\### Skills
+Skills
 
 Python, Java, SQL, Pandas/NumPy/scikit-learn, LangChain, REST APIs, DSA/OOP
 
 
 
-\### Projects
+ Projects
 
 \- \[agentic-ai-data-analyst](https://github.com/Kavyaboompur/agentic-ai-data-analyst) - Agentic AI data analyst using LangChain and a local LLM (Phi-3 via Ollama)
 
