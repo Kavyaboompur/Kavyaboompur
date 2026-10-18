@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Kavya%20B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Computer%20Vision&descSize=18&descAlignY=58" alt="Kavya B banner"/>
+
 
 <div align="center">
 
